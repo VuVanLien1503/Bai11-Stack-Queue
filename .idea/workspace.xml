@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bc340a0-161a-4979-b828-3b56fdccb0ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai11-Stack-Queue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT_Ktra_DauNgoac/StackBracket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT_Ktra_Palindrome/PalindromeQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_TrienKhaiQueue_LinkedList/MyLinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_TrienKhaiQueue_LinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_TrienKhaiQueue_LinkedList/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_TrienKhaiStack_Linkedlist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TH_TrienKhaiStack_Linkedlist/MyGenericStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/CodeGym/MD2/BaiTap",
+    "last_opened_file_path": "D:/CodeGym/MD2/Week3/Bai11-Stack-Queue",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -129,6 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671154678314</updated>
       <workItem from="1671154679722" duration="19438000" />
+      <workItem from="1671201833014" duration="1204000" />
     </task>
     <servers />
   </component>
